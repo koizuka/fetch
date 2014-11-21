@@ -1,0 +1,12 @@
+{
+    "name": "fetch",
+    "repo": "koizuka/fetch",
+    "description": "window.fetch polyfill",
+    "version": "0.3.0",
+    "keywords": [
+    ],
+    "scripts": [
+        "fetch.js"
+    ],
+    "main": "fetch.js"
+}
